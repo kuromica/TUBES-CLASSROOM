@@ -1,0 +1,13 @@
+:root{
+    --theme-bg: #0d0d38;
+    --border-color: #e0e0e0;
+    --text-color: white;
+}
+
+header ,.classroom-footer svg {
+    fill: white;
+}
+
+/* #theme-dot-1 {
+    background-color: white;
+} */
